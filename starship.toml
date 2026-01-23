@@ -8,4 +8,4 @@ format= '[$time]($style) '
 disabled = true
 
 [character]
-success_symbol = '[#](bold green)'
+success_symbol = '[#](bold gray)'
