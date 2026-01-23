@@ -6,3 +6,6 @@ format= '[$time]($style) '
 
 [aws]
 disabled = true
+
+[character]
+success_symbol = '[#](bold green)'
