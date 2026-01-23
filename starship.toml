@@ -1,0 +1,8 @@
+[time]
+disabled = false
+time_format = "%R"
+style = "dimmed white"
+format= '[$time]($style) '
+
+[aws]
+disabled = true
