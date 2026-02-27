@@ -14,3 +14,6 @@ unzip JetBrainsMono.zip -d ~/.local/share/fonts/JetBrainsMono
 # Update the font cache
 fc-cache -fv
 ```
+# Other stuff
+
+- Delta: https://github.com/dandavison/delta
