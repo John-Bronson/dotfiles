@@ -1,0 +1,22 @@
+[user]
+	email = john.bronson@inonde.io
+	name = John Bronson
+[push]
+	autoSetupRemote = true
+[core]
+    pager = delta
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    navigate = true  # use n and N to move between diff sections
+    dark = true      # or light = true, or omit for auto-detection
+    line-numbers = true
+    # file-decoration-style = box
+    # hunk-header-decoration-style = underline
+    hunk-header-style = omit
+    file-style = white
+
+[merge]
+    conflictStyle = zdiff3

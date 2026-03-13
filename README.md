@@ -14,6 +14,9 @@ unzip JetBrainsMono.zip -d ~/.local/share/fonts/JetBrainsMono
 # Update the font cache
 fc-cache -fv
 ```
-# Other stuff
+# Todo
 
-- Delta: https://github.com/dandavison/delta
+This part is currently not automated:
+
+- Install Starship: https://starship.rs/guide/ 
+- Install Delta: https://github.com/dandavison/delta
