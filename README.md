@@ -19,4 +19,5 @@ fc-cache -fv
 This part is currently not automated:
 
 - Install Starship: https://starship.rs/guide/ 
-- Install Delta: https://github.com/dandavison/delta
+- Install Delta: https://github.com/dandavison/delta 
+	- The .gitconfig file in this repo needs to be symlinked to the home directory with the following command: `ln -s ~/.dotfiles/.gitconfig ~/.gitconfig`
